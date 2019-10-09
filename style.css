@@ -1,0 +1,12 @@
+/*!
+Theme Name: MySuperSimpleTheme
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Dette er dit tema
+*/
+
+body {
+	background-color: blueviolet; 
+	color: white;
+}
